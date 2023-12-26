@@ -1,5 +1,7 @@
 # Javascript Virtual Keyboard
 
+This is a copy. I wanted to play with the idea of having a virtual keyboard in our webforms for non-english characters.
+
 Add a javascript virtual keyboard to text, password, textarea, and number inputs. Good for kiosk use, or to allow convenient input of characters from different languages.
 
 ![example01](https://github.com/GreyWyvern/virtual-keyboard/assets/137631/9f877409-f29b-43d5-8605-a39210cee802)
